@@ -7,4 +7,4 @@ The pdf contains the slides shown in class, while one will find the labs in the 
 The content is exclusively in French.
 
 Credits : Benjamin Bobbia - associate professor @ ISAE-SUPAERO (2024)
-Licence Creative Commons BY-NC-SA
+License Creative Commons BY-NC-SA
